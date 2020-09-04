@@ -22,7 +22,7 @@
     "ne-sendgrid": "^1.1.5",
     "ne-server": "^1.8.4",
     "ne-style": "^1.0.7",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
     "react-router": "^0.13.3",
     "sendgrid": "^1.9.2"
   },
